@@ -1,7 +1,7 @@
-# Leo框架系列（一）leo的启动与HTTP模块分析
 
-# HTTP
-Leo现支持HTTP和gRPC两种网络服务，两者可以单独存在也可以同时存在。如果同时存在时，HTTP还可以作为gRPC的代理，实现HTTP请求gRPC服务。
+
+
+
 ![HTTP](img/http.jpg)
 
 ## protoc-gen-go-leo
